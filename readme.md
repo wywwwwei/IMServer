@@ -7,6 +7,18 @@ executable文件夹中是后端的可执行文件（测试时选一使用）
 - cmd.exe 运行于Windows
 - httpserver运行于Mac
 
+默认有两个账户：
+
+用户1：
+
+ID：1	密码：123
+
+用户2：
+
+ID：2	密码：123
+
+互相是好友
+
 ## API文档
 
 > 具体的服务端口可通过Service目录中config.go修改
