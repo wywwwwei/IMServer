@@ -1,5 +1,7 @@
 # A Simple IM back-end
 
+> 正在完善： 实现持久化存储
+
 [项目地址:https://github.com/wywwwwei/IMServer](https://github.com/wywwwwei/IMServer)
 
 executable文件夹中是后端的可执行文件（测试时选一使用）
